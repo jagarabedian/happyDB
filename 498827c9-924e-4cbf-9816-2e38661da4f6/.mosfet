@@ -1,0 +1,8 @@
+{
+  "layout": "panel",
+  "rdbmsId": "498827c9-924e-4cbf-9816-2e38661da4f6",
+  "hidden": false,
+  "engine": "happyDB",
+  "insightName": "Data With Inverse",
+  "recipe": "DashboardInsightConfig(insights\u003d[\"happyDB__b0acab1a-1e65-440b-abd9-3ba592252127\"], oldIds\u003d[\"14_7f14f872-2308-4eec-802b-301daf98a77f\"], layout\u003d[\"\u003cencode\u003e{\"currentLayout\":{\"config\":{\"options\":{\"type\":\"grid\",\"xCount\":\"auto\",\"yCount\":\"auto\"},\"scroll\":{\"active\":false,\"down\":true,\"up\":false},\"panels\":{\"SMSSWidget14_7f14f872-2308-4eec-802b-301daf98a77f___0\":{\"top\":0,\"left\":0,\"height\":100,\"width\":100,\"index\":0,\"panelstatus\":\"normalized\"}}},\"selectedWidget\":\"SMSSWidget14_7f14f872-2308-4eec-802b-301daf98a77f___0\",\"availableWidgets\":[{\"widgetId\":\"SMSSWidget14_7f14f872-2308-4eec-802b-301daf98a77f___0\",\"open\":true,\"deleted\":false}]},\"selectedLayout\":\"panel\"}\u003c/encode\u003e\"] );"
+}
